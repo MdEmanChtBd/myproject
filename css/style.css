@@ -1,0 +1,23 @@
+*{
+    padding: auto;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+div{
+   
+    background: rgb(7, 226, 98);
+    color: rgb(200, 23, 23);
+    width: 1200px;
+
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    bottom: 50px;
+}
+
+p{
+   color: blue;
+   margin-left: center;
+}
